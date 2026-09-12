@@ -1,0 +1,2 @@
+# DriveHealth-Comparative-Fault-Diagnosis-Using-Classical-vs-Deep-Learning-Methods
+Vehicle breakdowns caused by undiagnosed mechanical or sensor faults lead to costly repairs, safety risks, and unplanned downtime — particularly for fleet operators who rely on continuous vehicle availability. Traditional diagnostic approaches often depend on fixed thresholds or reactive checks that catch faults only after they become severe.
